@@ -1,3 +1,3 @@
 # Projects
 
-This repo is just for the projects that I create when learning full stack :)
+This repo holds the projects I have done, either in my own time or part of my internships
